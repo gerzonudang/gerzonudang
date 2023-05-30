@@ -1,6 +1,6 @@
 ### Hi there 👋
   * I love AWS integration services. I specialize in seamlessly connecting applications and systems using Amazon Web Services for enhanced cloud connectivity.
-  * ⚡ Fun fact: Being someone who typically doesn't talk much but when I do, I have a tendency to talk a lot.
+  * ⚡ Fun fact: Use to get haircuts😄.
 
 ## Languages and tools
 
