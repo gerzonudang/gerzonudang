@@ -4,7 +4,7 @@
 
 ## Languages and tools
 
-<div style = "display : flex; column-gap : 8px;">
+<div style = "display : flex; column-gap : 16px;">
 
  <img src="assets/css.png" width="35" height="35">
  <img src="assets/figma.png" width="35" height="35">
