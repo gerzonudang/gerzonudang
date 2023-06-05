@@ -6,19 +6,18 @@
 
 <div style = "display : flex; column-gap : 16px;">
 
- <img src="assets/css.png" width="35" height="35"/>
- <img src="assets/figma.png" width="35" height="35"/>
- <img src="assets/gitgitaw.png" width="35" height="35"/>
- <img src="assets/html.png" width="35" height="35"/>
- <img src="assets/javava.png" width="35" height="35"/>
- <img src="assets/js.png" width="35" height="35"/>
- <img src="assets/liquid.png" width="35" height="35"/>
- <img src="assets/postpostman.png" width="35" height="35"/>
- <img src="assets/shopify.png" width="35" height="35"/>
- <img src="assets/graphql.png" width="35" height="35"/>
- <img src="assets/spring.svg" width="35" height="35"/>
- <img src="assets/node.png" width="35" height="35"/>
- <img src="assets/react.png" width="35" height="35"/>
+ <img src="assets/figma.png" width="35" height="35">
+ <img src="assets/gitgitaw.png" width="35" height="35">
+ <img src="assets/html.png" width="35" height="35">
+ <img src="assets/javava.png" width="35" height="35">
+ <img src="assets/js.png" width="35" height="35">
+ <img src="assets/liquid.png" width="35" height="35">
+ <img src="assets/postpostman.png" width="35" height="35">
+ <img src="assets/shopify.png" width="35" height="35">
+ <img src="assets/graphql.png" width="80" height="35">
+ <img src="assets/spring.svg" width="35" height="35">
+ <img src="assets/node.png" width="60" height="35">
+ <img src="assets/react.png" width="35" height="35">
 
 </div>
 
