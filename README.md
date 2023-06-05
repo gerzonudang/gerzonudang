@@ -1,10 +1,11 @@
 ### Hi there 👋
   * I love AWS integration services. I specialize in seamlessly connecting applications and systems using Amazon Web Services for enhanced cloud connectivity.
-  * ⚡ Fun fact: Being someone who typically doesn't talk much but when I do, I have a tendency to talk a lot.
+  * ⚡ Fun fact: Use to get haircuts😄.
 
 ## Languages and tools
 
 <div style = "display : flex; column-gap : 8px;">
+<<<<<<< HEAD
  <img style = "display : flex; " src="assets/css.png" width="35" height="35">
  <img src="assets/figma.png" width="35" height="35">
  <img src="assets/gitgitaw.png" width="35" height="35">
@@ -18,6 +19,21 @@
  <img src="assets/spring.svg" width="35" height="35">
  <img src="assets/node.png" width="35" height="35">
  <img src="assets/react.png" width="35" height="35">
+=======
+ <img style = "display : flex; " src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/css.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/figma.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/gitgitaw.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/html.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/javava.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/js.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/liquid.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/postpostman.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/shopify.png" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/graphql.png" width="80" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/spring.svg" width="35" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/node.png" width="60" height="35">
+ <img src="https://github.com/gerzon2022/gerzon2022/blob/main/assets/react.png" width="35" height="35">
+>>>>>>> b02e5e6143d88acd7fb287ec602a05ec4c44190b
 </div>
 
 
